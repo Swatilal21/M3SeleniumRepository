@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-11T12:32:40 IST" name="Default suite" finished-at="2025-03-11T12:33:10 IST" duration-ms="29782">
+    <groups>
+    </groups>
+    <test started-at="2025-03-11T12:32:40 IST" name="Default test" finished-at="2025-03-11T12:33:10 IST" duration-ms="29782">
+      <class name="TestNGAssertion.ToUnderstandSoftAssert">
+        <test-method signature="validLoginTC()[pri:0, instance:TestNGAssertion.ToUnderstandSoftAssert@a530d0a]" started-at="2025-03-11T12:32:40 IST" name="validLoginTC" finished-at="2025-03-11T12:33:10 IST" duration-ms="29655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validLoginTC -->
+      </class> <!-- TestNGAssertion.ToUnderstandSoftAssert -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
